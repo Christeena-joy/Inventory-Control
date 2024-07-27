@@ -1,0 +1,38 @@
+[
+    {
+      "text": "User",
+      "link": "/user",
+      "icon": "PersonIcon"
+    },
+    {
+      "text": "Product",
+      "link": "/admin/product",
+      "icon": "ShoppingCartIcon"
+    },
+    {
+      "text": "Customer",
+      "link": "/customer",
+      "icon": "PeopleAltIcon"
+    },
+    {
+      "text": "Supplier",
+      "link": "/supplier",
+      "icon": "StoreIcon"
+    },
+    {
+      "text": "Sales",
+      "link": "/sales",
+      "icon": "AttachMoneyIcon"
+    },
+    {
+      "text": "Purchases",
+      "link": "/purchases",
+      "icon": "ShoppingBasketIcon"
+    },
+    {
+      "text": "Category",
+      "link": "/categories",
+      "icon": "CategoryIcon"
+    }
+  ]
+  

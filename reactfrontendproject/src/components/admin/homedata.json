@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "User Management",
+      "description": "Manage users and user roles.",
+      "icon": "GroupIcon",
+      "link":"/user"
+    },
+    {
+      "id": 2,
+      "title": "Product Management",
+      "description": "Manage products, inventory, and categories.",
+      "icon": "ProductionQuantityLimitsIcon",
+      "link":"/admin/product"
+    },
+    {
+      "id": 3,
+      "title": "Customer Management",
+      "description": "Manage customer information.",
+      "icon": "AccountCircleRoundedIcon",
+      "link":"/customer"
+    },
+    {
+      "id": 4,
+      "title": "Supplier Management",
+      "description": "Manage suppliers and supplier relationships.",
+      "icon": "PeopleAltRoundedIcon",
+      "link":"/supplier"
+    },
+    {
+      "id": 5,
+      "title": "Sales Management",
+      "description": "Track sales, revenue, and performance metrics.",
+      "icon": "BarChartRoundedIcon",
+      "link":"/sales"
+    },
+    {
+      "id": 6,
+      "title": "Purchases Management",
+      "description": "Manage purchasing activities and orders.",
+      "icon": "ShoppingCartRoundedIcon",
+      "link":"/purchases"
+    },
+    {
+      "id":7,
+      "title":"Category Management",
+      "description":"Manage categories information.",
+      "icon": "CategoryRoundedIcon",
+      "link":"/categories"
+    }
+  ]
+  

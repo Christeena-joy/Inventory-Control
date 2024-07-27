@@ -1,0 +1,20 @@
+[
+  
+  {
+    "text": "Product",
+    "link": "/user/product",
+    "icon": "ShoppingCartIcon"
+  },
+  {
+    "text": "Customer",
+    "link": "/customer",
+    "icon": "PeopleAltIcon"
+  },
+  
+  {
+    "text": "Sales",
+    "link": "/sales",
+    "icon": "AttachMoneyIcon"
+  }
+  
+]
